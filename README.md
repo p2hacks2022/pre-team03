@@ -52,8 +52,6 @@ Androidアプリ担当とバックエンド担当との仕様共有を容易に�
 1. Swagger
     - 完全な仕様の共有
 
-#### Android アプリ担当
-
 #### バックエンド担当
 
 バックエンドの提供する情報が完全であるか確認するために、UIUXデザイン担当と一緒に、必要な情報の洗い出しを行った。
@@ -75,6 +73,9 @@ Androidアプリ担当とバックエンド担当との仕様共有を容易に�
 #### Android アプリ
 - [Jetpack Compose](https://developer.android.com/jetpack/compose?hl=ja)
   - UIアプリ開発ツールキット
+- Google Map SDK for Android
+- accompanist-pager
+- retrofit (with Gson)
 
 #### バックエンド
 - [echo](https://echo.labstack.com/)
@@ -96,9 +97,6 @@ Androidアプリ担当とバックエンド担当との仕様共有を容易に�
   - Issues
     - 各部門の進捗管理に利用
     - issue 単位で branch を分けて進捗を管理
-
-#### Android アプリ
-- 
 
 #### バックエンド
 - [render](https://render.com/)
